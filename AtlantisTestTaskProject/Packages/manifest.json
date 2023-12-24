@@ -1,7 +1,10 @@
 {
   "dependencies": {
-    "com.unity.addressables": "1.21.19",
+    "com.kyrylokuzyk.arfoundationremote": "file:../Assets/Plugins/ARFoundationRemoteInstaller/com.kyrylokuzyk.arfoundationremote.tgz",
+    "com.unity.adaptiveperformance.google.android": "1.2.1",
+    "com.unity.adaptiveperformance.samsung.android": "5.0.0",
     "com.unity.collab-proxy": "2.2.0",
+    "com.unity.feature.2d": "2.0.0",
     "com.unity.feature.mobile": "1.0.0",
     "com.unity.ide.rider": "3.0.25",
     "com.unity.ide.visualstudio": "2.0.21",

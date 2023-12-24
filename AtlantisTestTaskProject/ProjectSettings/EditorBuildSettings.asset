@@ -4,14 +4,29 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Project/Scenes/MainScene.unity
+    guid: c850ee8c3b14cc8459e7e186857cf567
   m_configObjects:
+    AR Foundation RemoteARFoundationRemoteLoaderSettings: {fileID: 11400000, guid: cf03e525991c31f4a9cbc6f9e047a9f6,
+      type: 2}
+    AR Foundation RemoteARFoundationRemoteSessionRecordsData: {fileID: 11400000, guid: c64d49d99d0cbf24bbaeacd283f991a6,
+      type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 0ce3295bb9da0ce4cb0dc870740d5575,
       type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 9670f7d48e582b140aca5291139e318f,
       type: 2}
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000,
+      guid: 8faa15e1ee7e6914a8085461db3bd6d1, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 1c8377f65245650448ac54822b3e51a0,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: 9aedd1dc3a88fd04aadc759977409b75, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
       guid: 001b922cf07e4d64d82c6f51b8b88182, type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: c257679579b683b4cb3b6aaa0cf8cbf0,
+      type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: e06eef8cf814c5042b332556b89df3f8,
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c97ddbde1f2009844b0ca5c13aa3a74d,

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9e96174e6804c0fb0f8e2502c2b8074, type: 3}
+  m_Name: PanelManagerSettings
+  m_EditorClassIdentifier: 
+  Panels:
+  - {fileID: 666520532062973249, guid: e47349826ae89d54293582fecccb45aa, type: 3}
+  - {fileID: 81318918576965748, guid: d724cc4202fc2da48ba61d5c4f2def82, type: 3}
+  - {fileID: 5792552906881769763, guid: d1dd8cf0a40d9524a88985109b4edf6a, type: 3}
+  - {fileID: 7174269368207967369, guid: d8af69e7f1e57304182cbd59d514e036, type: 3}
